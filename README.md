@@ -4,4 +4,4 @@ npm init
 
 to get node moduels folder
 
-npm i express nodemon mysql express-handlers
+npm install express dotenv express-handlebars body-parser mysql
